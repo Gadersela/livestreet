@@ -34,4 +34,5 @@ $oRouter=Router::getInstance();
 $oRouter->Exec();
 
 $oProfiler->Stop($iTimeId);
+
 ?>
